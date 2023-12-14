@@ -1,0 +1,14 @@
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\bin\Debug\net6.0\HoursCalculatorApp.exe
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\bin\Debug\net6.0\HoursCalculatorApp.deps.json
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\bin\Debug\net6.0\HoursCalculatorApp.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\bin\Debug\net6.0\HoursCalculatorApp.dll
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\bin\Debug\net6.0\HoursCalculatorApp.pdb
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.dll
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\refint\HoursCalculatorApp.dll
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.pdb
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\HoursCalculatorApp.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\HoursCalculatorApp\HoursCalculatorApp\obj\Debug\net6.0\ref\HoursCalculatorApp.dll
